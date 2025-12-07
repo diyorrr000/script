@@ -1,0 +1,12 @@
+{
+  "name": "html-collector-server",
+  "version": "1.0.0",
+  "description": "HTML collector server for stealing web pages",
+  "main": "api/collect.js",
+  "scripts": {
+    "start": "node api/collect.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
